@@ -1,0 +1,24 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/black23cat/binary-search-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/black23cat/binary-search-tree/issues"
+  },
+  "homepage": "https://github.com/black23cat/binary-search-tree#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
